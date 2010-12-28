@@ -1,0 +1,9 @@
+Assorted VIM functions and bindings for speedier movement.
+
+Move up and down to lines of same indent level, or up and
+down to lower indent level.
+
+Move to start, middle and end of line, (not keen on $ and ^).
+Move to middle based on line content after indent, not window width like 'M'.
+Move to middle of upper or lower half of the window.
+
